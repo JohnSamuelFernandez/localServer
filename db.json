@@ -1,0 +1,15 @@
+{
+  "userDetails": [
+    {
+      "id":"1",
+      "name": "john",
+      "email": "something@someone.come"
+    },
+    {
+      "id":"2",
+      "name": "john",
+      "email": "something@someone.come"
+    }
+  ]
+}
+
